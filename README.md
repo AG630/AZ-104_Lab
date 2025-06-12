@@ -7,4 +7,5 @@ I'll be running through the following topics in Azure, and share screen shots of
 
 ![image](https://github.com/user-attachments/assets/7fad6acc-a34f-4281-9a94-1fc5bbfb6fde)
 
+
 ![image](https://github.com/user-attachments/assets/05c4a700-135e-43b2-9d60-1434e86704cc)
