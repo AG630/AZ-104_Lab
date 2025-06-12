@@ -36,7 +36,10 @@ To start with, select a resource group. I've selected Test, and then select Acce
 
 ![image](https://github.com/user-attachments/assets/8c1cfd2f-0686-4bc1-bd2c-2c78e291a005)
 
+Select Roles,
 
-![image](https://github.com/user-attachments/assets/8c1cfd2f-0686-4bc1-bd2c-2c78e291a005)
+![image](https://github.com/user-attachments/assets/11169548-036d-4df7-9eaf-642b87fc56b4)
+
+
 
 
