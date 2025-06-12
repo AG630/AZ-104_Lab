@@ -30,3 +30,13 @@ And the final outcome! A configured Azure policy
 The next step is to create and assign an initiative definition. You need to head over to the authoring tab again and select definitions. Then select initiative definitions. Leave the tab on Create New category and add a policy.
 
 
+## Configuring a Role-Based Access control
+
+To start with, select a resource group. I've selected Test, and then select Access control which is located on the left in a list. This is what you should see
+
+![image](https://github.com/user-attachments/assets/8c1cfd2f-0686-4bc1-bd2c-2c78e291a005)
+
+
+![image](https://github.com/user-attachments/assets/8c1cfd2f-0686-4bc1-bd2c-2c78e291a005)
+
+
